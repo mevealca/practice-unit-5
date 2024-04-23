@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "practica-1.cosole/1.0.0": {
+        "dependencies": {
+          "practica-1": "1.0.0"
+        },
+        "runtime": {
+          "practica-1.cosole.dll": {}
+        }
+      },
+      "practica-1/1.0.0": {
+        "runtime": {
+          "practica-1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practica-1.cosole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "practica-1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

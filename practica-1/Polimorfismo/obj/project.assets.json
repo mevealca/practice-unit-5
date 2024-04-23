@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\Polimorfismo\\Polimorfismo.csproj",
+      "projectUniqueName": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\Polimorfismo\\Polimorfismo.csproj",
       "projectName": "Polimorfismo",
-      "projectPath": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\Polimorfismo\\Polimorfismo.csproj",
+      "projectPath": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\Polimorfismo\\Polimorfismo.csproj",
       "packagesPath": "C:\\Users\\mevea\\.nuget\\packages\\",
-      "outputPath": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\Polimorfismo\\obj\\",
+      "outputPath": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\Polimorfismo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

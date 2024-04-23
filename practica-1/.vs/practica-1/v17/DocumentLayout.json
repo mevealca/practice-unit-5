@@ -1,18 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\",
+  "WorkspaceRootPath": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C125FF3A-8E3B-4B90-8AA6-0DD11F207356}|Polimorfismo\\Polimorfismo.csproj|c:\\curso_c_intermedio\\source\\practica-1\\practica-1\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|c:\\curso_c_intermedio\\source\\practice-unit-5\\practica-1\\practica-1\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1EE1BD-3FD8-4DF5-ABFE-40B76A1B67E5}|practica-1.cosole\\practica-1.cosole.csproj|c:\\curso_c_intermedio\\source\\practice-unit-5\\practica-1\\practica-1.cosole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1EE1BD-3FD8-4DF5-ABFE-40B76A1B67E5}|practica-1.cosole\\practica-1.cosole.csproj|solutionrelative:practica-1.cosole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|c:\\curso_c_intermedio\\source\\practice-unit-5\\practica-1\\practica-1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|c:\\curso_c_intermedio\\source\\practice-unit-5\\practica-1\\practica-1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C125FF3A-8E3B-4B90-8AA6-0DD11F207356}|Polimorfismo\\Polimorfismo.csproj|c:\\curso_c_intermedio\\source\\practice-unit-5\\practica-1\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C125FF3A-8E3B-4B90-8AA6-0DD11F207356}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C125FF3A-8E3B-4B90-8AA6-0DD11F207356}|Polimorfismo\\Polimorfismo.csproj|c:\\curso_c_intermedio\\source\\practica-1\\practica-1\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C125FF3A-8E3B-4B90-8AA6-0DD11F207356}|Polimorfismo\\Polimorfismo.csproj|c:\\curso_c_intermedio\\source\\practice-unit-5\\practica-1\\polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C125FF3A-8E3B-4B90-8AA6-0DD11F207356}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|c:\\curso_c_intermedio\\source\\practica-1\\practica-1\\practica-1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E84D350-2495-454C-A494-E200A050115E}|practica-1\\practica-1.csproj|solutionrelative:practica-1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,28 +34,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Figura.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\Polimorfismo\\Figura.cs",
-              "RelativeDocumentMoniker": "Polimorfismo\\Figura.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\Polimorfismo\\Figura.cs",
-              "RelativeToolTip": "Polimorfismo\\Figura.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAcAAAA",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1\\Student.cs",
+              "RelativeDocumentMoniker": "practica-1\\Student.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1\\Student.cs",
+              "RelativeToolTip": "practica-1\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T17:37:37.38Z",
+              "WhenOpened": "2024-04-23T02:48:25.29Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1.cosole\\Program.cs",
+              "RelativeDocumentMoniker": "practica-1.cosole\\Program.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1.cosole\\Program.cs",
+              "RelativeToolTip": "practica-1.cosole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:49:19.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1\\Instructor.cs",
+              "RelativeDocumentMoniker": "practica-1\\Instructor.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1\\Instructor.cs",
+              "RelativeToolTip": "practica-1\\Instructor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T02:48:07.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\Polimorfismo\\Figura.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Figura.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\Polimorfismo\\Figura.cs",
+              "RelativeToolTip": "Polimorfismo\\Figura.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:37:37.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\Polimorfismo\\Program.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\Polimorfismo\\Program.cs",
               "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\Polimorfismo\\Program.cs",
               "RelativeToolTip": "Polimorfismo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -52,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\practica-1\\Person.cs",
+              "DocumentMoniker": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1\\Person.cs",
               "RelativeDocumentMoniker": "practica-1\\Person.cs",
-              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practica-1\\practica-1\\practica-1\\Person.cs",
+              "ToolTip": "C:\\Curso_C_intermedio\\Source\\practice-unit-5\\practica-1\\practica-1\\Person.cs",
               "RelativeToolTip": "practica-1\\Person.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAwwC0AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-20T16:38:52.988Z",
               "EditorCaption": ""
